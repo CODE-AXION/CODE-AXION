@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CODE-AXION
-- 👀 I’m interested in Cybersecurity and Development
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Network Exploitation & Web Exploitation 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can Reach me on Instagram @codeaxion
