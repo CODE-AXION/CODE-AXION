@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CODE-AXION 
-- I am a Cyber-Security Student And A Full-Stack Web Developer
+-  I am a Cyber-Security Student And A Full-Stack Web Developer
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Network Exploitation & Web Exploitation 
 - 💞️ I’m looking to collaborate on ...
