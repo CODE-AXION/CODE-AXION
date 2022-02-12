@@ -3,13 +3,13 @@
 
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
-- I also do Graphics Design & Penandink Art
+- 🎨 I also do Graphics Design & Penandink Art
 - 👀 I’m interested in Cybersecurity
 - 🌱 learning Network Exploitation & Web Exploitation
 - 
 - <h2>PROJECTS:</h2>
 - 
-- 💻 Working On "Stocks&Profit" Website [ In Development...]
+- 💻 Working On " Stocks&Profit " Website [ In Development...]
 - 💻 Frontend Designs With Html Css and Javascript 
 - 🖥 <b>UPCOMING PROJECT</b> :- Advance PHP CRUD System
 - 
