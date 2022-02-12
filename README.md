@@ -3,6 +3,7 @@
 
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
+- I also do Graphics Design & Penandink Art
 - 👀 I’m interested in Cybersecurity
 - 🌱 learning Network Exploitation & Web Exploitation
 - 
@@ -10,11 +11,12 @@
 - 
 - 💻 Working On "Stocks&Profit" Website [ In Development...]
 - 💻 Frontend Designs With Html Css and Javascript 
-- 🖥 UPCOMING PROJECT :- Advance PHP CRUD System
+- 🖥 <b>UPCOMING PROJECT</b> :- Advance PHP CRUD System
 - 
-- Contact Me / Collab :
-- Email: codeaxion77@gmail.com
-- 📫 You Can Reach me on Instagram @codeaxion
+- <h2>Contact Me / Collab / Connect:</h2>
+- 📫 Email: codeaxion77@gmail.com
+- Youtube: https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw [ What I Post: Security Topics and Development ]
+- You Can Reach me on Instagram: https://www.instagram.com/codeaxion/
 
 <!---
 CODE-AXION/CODE-AXION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
