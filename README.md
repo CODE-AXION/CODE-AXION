@@ -4,6 +4,7 @@ THE&nbspSECURITY&nbspBREACH </h2>
 
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
+- 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
 - 🎨 I also do Graphics Design & Penandink Art
 - 👀 I’m interested in Cybersecurity
 - 🌱 learning Network Exploitation & Web Exploitation
