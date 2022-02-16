@@ -8,7 +8,8 @@ THE&nbspSECURITY&nbspBREACH </h2>
 - 🎨 I also do Graphics Design & Penandink Art
 - 👀 I’m interested in Cybersecurity
 - 📖 Currently learning Network Exploitation & Web Exploitation
-- 
+- 📕 Next Language to Learn C and Flutter 
+-
 - <h2>PROJECTS:</h2>
 - 
 - 💻 Working On " Stocks&Profit " Website [ In Development...]
