@@ -7,7 +7,7 @@ THE&nbspSECURITY&nbspBREACH </h2>
 - 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
 - 🎨 I also do Graphics Design & Penandink Art
 - 👀 I’m interested in Cybersecurity
-- 🌱 learning Network Exploitation & Web Exploitation
+- 📖 Currently learning Network Exploitation & Web Exploitation
 - 
 - <h2>PROJECTS:</h2>
 - 
