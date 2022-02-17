@@ -2,6 +2,8 @@
 <h2>CODE AXION
 THE&nbspSECURITY&nbspBREACH </h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
+
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
 - 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
