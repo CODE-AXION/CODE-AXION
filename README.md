@@ -10,7 +10,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 <h3 align="left">👋 Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
-- 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
+- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Illustrator
+- I am passionate about cyber-security and development ,i design and develop Full-stack websites on fiverr ! 
 
 <h2>About Me</h2>
 
@@ -19,7 +20,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 👀 I’m interested in Cybersecurity
 - 📖 Currently learning Network Exploitation & Web Exploitation
 - 📕 Next Language to Learn C and Flutter 
-
+- GOT any freelance work? do reach, email :)
 <center>
  <h3 align="center">Languages and Tools:</h3>
 
