@@ -1,10 +1,15 @@
-<h1 align="center">Welcome To</h1>
-<!-- <h2 align="center">CODE AXION -->
-<!-- THE&nbspSECURITY&nbspBREACH </h2> -->
 
 ![banner (1)](https://user-images.githubusercontent.com/97381867/155555798-69333f39-dc7b-4262-b956-2deac1a1dfe5.png)
+<!-- 
+<h1 align="center">Welcome To</h1>
+<h2 align="center">CODE AXION
+THE&nbspSECURITY&nbspBREACH </h2> -->
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23232162&lines=WELCOME+TO)](https://git.io/typing-svg) -->
+<hr>
 
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97381867/155581357-7a4ccb5c-cdbb-4ef4-a600-6543180b7c2f.gif">
+ 
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
 - 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
@@ -12,7 +17,13 @@
 - 👀 I’m interested in Cybersecurity
 - 📖 Currently learning Network Exploitation & Web Exploitation
 - 📕 Next Language to Learn C and Flutter 
+
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
