@@ -6,11 +6,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
-
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
+</p>
+<center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats)
-
+</center>
   
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
