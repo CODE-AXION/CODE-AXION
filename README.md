@@ -8,8 +8,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23232162&lines=WELCOME+TO)](https://git.io/typing-svg) -->
 <hr>
 
- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97381867/155581357-7a4ccb5c-cdbb-4ef4-a600-6543180b7c2f.gif">
- 
+<h2>About Me</h2>
+
+
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
 - 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
@@ -18,11 +19,22 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 📖 Currently learning Network Exploitation & Web Exploitation
 - 📕 Next Language to Learn C and Flutter 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<center>
+ <h3 align="center">Languages and Tools:</h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</center>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
