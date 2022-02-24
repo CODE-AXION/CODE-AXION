@@ -4,7 +4,7 @@
 
 ![banner (1)](https://user-images.githubusercontent.com/97381867/155555798-69333f39-dc7b-4262-b956-2deac1a1dfe5.png)
 
-<center>
+
 - 👋 Hi, I’m @CODE-AXION 
 - 👨‍💻 I am a Cyber-Security Student And A Full-Stack Web Developer
 - 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
@@ -12,9 +12,7 @@
 - 👀 I’m interested in Cybersecurity
 - 📖 Currently learning Network Exploitation & Web Exploitation
 - 📕 Next Language to Learn C and Flutter 
-</center>
-
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
