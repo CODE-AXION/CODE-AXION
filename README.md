@@ -1,6 +1,6 @@
-<h3>Welcome To</h3>
-<h2>CODE AXION
-THE&nbspSECURITY&nbspBREACH </h2>
+<h1 align="center">Welcome To</h1>
+<!-- <h2 align="center">CODE AXION -->
+<!-- THE&nbspSECURITY&nbspBREACH </h2> -->
 
 ![banner (1)](https://user-images.githubusercontent.com/97381867/155555798-69333f39-dc7b-4262-b956-2deac1a1dfe5.png)
 
@@ -9,7 +9,6 @@ THE&nbspSECURITY&nbspBREACH </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 
 
@@ -44,9 +43,10 @@ THE&nbspSECURITY&nbspBREACH </h2>
 - 
 - <h2>Contact Me / Collab / Connect:</h2>
 - 📫 Email: codeaxion77@gmail.com
-- Youtube: https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw [ What I Post: Security Topics and Development ]
-- You Can Reach me on Instagram: https://www.instagram.com/codeaxion/
-
+- 
+- <a href="https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw ">![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.instagram.com/codeaxion/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <!---
