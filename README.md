@@ -11,16 +11,24 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="left">👋 Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
 - 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Illustrator
-- I am passionate about cyber-security and development ,i design and develop Full-stack websites on fiverr ! 
-
+- I Am Passionate About Cyber-Security And Development ,I Design And Develop Full-Stack Websites On Fiverr ! 
+- <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
+- 💻 Working On " Stocks&Profit " Website [ In Development...]
+- 💻 Working On " Cyber-Awarness " Website For Competition [ In Development...]
+- 💻 Frontend Designs With Html Css and Javascript 
+- 🖥 Advance PHP CRUD System
+- 🖥 <b>UPCOMING PROJECT</b> :- Python CRUD System
 <h2>About Me</h2>
 
-- 📚 Languages I Know: Html, CSS, Javascript, Php, Mysql, Python, Bash 
-- 🎨 I also do Graphics Design & Penandink Art
-- 👀 I’m interested in Cybersecurity
+- 🎨 I also do Penandink Art
+- 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | well, let's learn & hack together @darkestbrush 
+- <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Network Exploitation & Web Exploitation
-- 📕 Next Language to Learn C and Flutter 
-- GOT any freelance work? do reach, email :)
+- I also Have 2 years of experience In Full Stack Web Development
+- Currently Participated In " Codingal HPE Nation Coding Competition Of Web/App Development "
+- 📕 Next Language to Learn C And Flutter 
+- GOT any freelance work? do reach me , email :)
+
 <center>
  <h3 align="center">Languages and Tools:</h3>
 
@@ -62,11 +70,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- <h2>PROJECTS:</h2>
-- 
-- 💻 Working On " Stocks&Profit " Website [ In Development...]
-- 💻 Frontend Designs With Html Css and Javascript 
-- 🖥 <b>UPCOMING PROJECT</b> :- Advance PHP CRUD System
+
 - 
 - <h2>Contact Me / Collab / Connect:</h2>
 - 📫 Email: codeaxion77@gmail.com
