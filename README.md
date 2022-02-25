@@ -26,6 +26,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | well, let's learn & hack together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Network Exploitation & Web Exploitation
+- I Also Wanna Learn Robotics | Arduino Programming In Future
 - I also Have 2 years of experience In Full Stack Web Development
 - Currently Participated In " Codingal HPE Nation Coding Competition Of Web/App Development "
 - 📕 Next Language to Learn C And Flutter 
