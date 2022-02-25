@@ -47,11 +47,13 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Networking](https://img.shields.io/badge/Computer%20Networking-6933FF?style=for-the-badge&logoColor=white)
 ![Security](https://img.shields.io/badge/Cyber%20Security-6933FF?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Virtual%20Machines-0E5CA3?style=for-the-badge&logoColor=%23F7DF1E)
+ 
 </center>
 
 <h3 align="center">My Github Stats:</h3>
