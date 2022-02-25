@@ -8,7 +8,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23232162&lines=WELCOME+TO)](https://git.io/typing-svg) -->
 <hr>
 
-<h3 align="left">👋 Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
+<h3 align="left">:wave: Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
 - 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Illustrator
 - I Am Passionate About Cyber-Security And Development ,I Design And Develop Full-Stack Websites On Fiverr ! 
