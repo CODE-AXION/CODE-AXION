@@ -16,7 +16,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3>Contact Me / Collab / Connect:</h3>
 
 
-- <a href="https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw ">![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw ">![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://www.instagram.com/codeaxion/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -33,7 +33,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
 <center>
- <h3 align="center">Languages and Tools:</h3>
+ <h3 align="center">My Skills and Tech Stack I Work With:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +53,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 ![JavaScript](https://img.shields.io/badge/Virtual%20Machines-0E5CA3?style=for-the-badge&logoColor=%23F7DF1E)
 </center>
 
+<h3 align="center">My Github Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
