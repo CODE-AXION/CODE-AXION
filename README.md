@@ -23,7 +23,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h2>About Me</h2>
 
 - 🎨 I also do Penandink Art
-- 💻 I Mostly Design BackEnd Applications Architecture 
+- 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | well, let's learn & hack together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Network Exploitation & Web Exploitation
