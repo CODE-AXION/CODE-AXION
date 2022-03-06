@@ -45,6 +45,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TRYHACKME](https://img.shields.io/badge/Bash-212C42?style=for-the-badge&logo=GNUBASH&logoColor=white)
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![TRYHACKME](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
@@ -67,11 +68,11 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 </p>
 
  - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
+- 🖥 Currently Working On:<b><i> Advance CRUD System With PHP</i></b> 
 - 💻 Working On " Stocks&Profit " Website [ In Development...]
 - 💻 Working On " Cyber-Awarness " Website For Competition [ In Development...]
 - 💻 Frontend Designs With Html Css and Javascript 
-- 🖥 Advance PHP CRUD System
-- 🖥 <b>UPCOMING PROJECT</b> :- Python CRUD System
+
  
 
 
