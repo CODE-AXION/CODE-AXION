@@ -45,9 +45,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
  - Fun Fact: 
-   - Favourite Youtuber: Watches Alot Of Michael Reeves Videos
-   - Big Fan Boi Of Playstation Watches Gameplays and Trailers Alot 
-   - I used to Play Piano And Do Music Composition and Soundtrack Covers with Fl Studio, (But now i only focus on these stuffs)
+   - 🎞 Favourite Youtuber: Watches Alot Of Michael Reeves Videos
+   - 🎮 Big Fan Boi Of Playstation Watches Gameplays and Trailers Alot 
+   - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But now i only focus on these stuffs)
 
 <center>
  <h3 align="center">My Skills and Tech Stack I Work With:</h3>
