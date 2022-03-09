@@ -10,7 +10,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 <h3 align="left">:wave: Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
-- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Creator & SFX | Web Design & Artwork
+- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Creator & SFX | Web & Graphics Designer 
 - 💻 I Am Passionate About Cyber-Security And Development ,I Design And Develop Full-Stack Websites On Fiverr ! 
 
 <h3>Contact Me / Collab / Connect:</h3>
