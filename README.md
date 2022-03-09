@@ -44,6 +44,11 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 📫 GOT Any Freelance Work? Do Reach Me On <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">Fiverr</a> or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
+ - Fun Fact: 
+   - Favourite Youtuber: Watches Alot Of Michael Reeves Videos
+   - Big Fan Boi Of Playstation Watches Gameplays and Trailers Alot 
+   - I used to Play Piano And Do Music Composition and Soundtrack Covers with Fl Studio, (But now i only focus on these stuffs)
+
 <center>
  <h3 align="center">My Skills and Tech Stack I Work With:</h3>
 
