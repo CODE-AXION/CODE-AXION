@@ -17,13 +17,23 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 
 <a href="https://www.youtube.com/channel/UCR_21iAidd3UEiazjoKeOfw ">![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">
+![Fiverr](https://img.shields.io/badge/Fiverr-00b22d.svg?style=for-the-badge&logo=fiverr&logoColor=white)
+</a>
 <a href="https://www.instagram.com/codeaxion/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://twitter.com/CodeAxion">
+![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+<a href="https://tryhackme.com/p/darkestbrush">
+![Tryhackme](https://img.shields.io/badge/TryHackMe-A81D33.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
+</a>
+
 
 <h2>About Me</h2>
 
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
-- 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | well, let's learn & hack together @darkestbrush 
+- 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Object-Oriented Programming With PHP, Laravel And Along With Network And Web Exploitation Sometimes
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
@@ -53,9 +63,11 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![photoshop](https://img.shields.io/badge/Photoshop-8BC3FC?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![photoshop](https://img.shields.io/badge/AfterEffects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Networking](https://img.shields.io/badge/Computer%20Networking-6933FF?style=for-the-badge&logoColor=white)
 ![Security](https://img.shields.io/badge/Cyber%20Security-6933FF?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Virtual%20Machines-0E5CA3?style=for-the-badge&logoColor=%23F7DF1E)
+![VirtualMachines](https://img.shields.io/badge/Virtual%20Machines-0E5CA3?style=for-the-badge&logo=virtualbox&logoColor=white)
  
 </center>
 
