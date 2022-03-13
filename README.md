@@ -11,7 +11,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="left">:wave: Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
 - 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Creator & SFX | UI/UX And Motion Graphics Designer 
-- 💻 I Am Passionate About Full-Stack Development | Cyber-Security And Motion Graphics, I Design And Develop Full-Stack Websites On Fiverr ! 
+- 💻 I Am Passionate About Full-Stack Development | Cyber-Security And Motion Graphics
 
 <h3>Contact Me / Collab / Connect:</h3>
 
@@ -39,6 +39,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Also Do PenandInk Art
 - 📚 I also Have 2 years of experience In Full Stack Web Development
+- 💻 And I Design And Develop Full-Stack Websites On Fiverr ! 
 - 💥 Currently Participated In " Codingal HPE National Coding Competition Of Web/App Development "
 - 📕 Next Language to Learn C And Flutter 
 - 📫 GOT Any Freelance Work? Do Reach Me On <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">Fiverr</a> or Other Social Networks:)
@@ -85,7 +86,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 </p>
 
  - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
-- 🖥 Currently Working On:<b><i> Advance CRUD System With PHP</i></b> 
+- 🖥 Currently Working On:<b><i> " Advance BackEnd Admin System " With PHP & Laravel</i></b>
 - 💻 Working On " Stocks&Profit " Website [ In Development...]
 - 💻 Working On " Cyber-Awarness " Website For Competition [ In Development...]
 - 💻 Frontend Designs With Html Css and Javascript 
