@@ -31,11 +31,12 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 <h2>About Me</h2>
 
-- 💻 I Am Passionate About Full-Stack Development | Cyber-Security And Motion Graphics
+- 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Laravel And Along With Network And Web Exploitation Sometimes
+- Mastering Cinematography | Motion Graphics And SFX Skills
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Also Do PenandInk Art
 - 📚 I also Have 2 years of experience In Full Stack Web Development
@@ -48,7 +49,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  - Fun Fact: 
    - 🎞 Favourite Youtuber: Watches Alot Of Michael Reeves Videos
    - 🎮 Big Fan Boi Of Playstation Watches Gameplays and Trailers Alot 
-   - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But now i only focus on these stuffs)
+   - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But Now I Only Focus On My Career)
 
 <center>
  <h3 align="center">My Skills and Tech Stack I Work With:</h3>
