@@ -36,7 +36,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Laravel And Along With Network And Web Exploitation Sometimes
-- Mastering Cinematography | Motion Graphics And SFX Skills
+- 🎬 Mastering Cinematography | Motion Graphics And SFX Skills
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Also Do PenandInk Art
 - 📚 I also Have 2 years of experience In Full Stack Web Development
