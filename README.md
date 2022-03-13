@@ -11,7 +11,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="left">:wave: Hi, I am Rayees Aadil ~ aka CODE-AXION</h3>
 
 - 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Creator & SFX | UI/UX And Motion Graphics Designer 
-- 💻 I Am Passionate About Cyber-Security And Development ,I Design And Develop Full-Stack Websites On Fiverr ! 
+- 💻 I Am Passionate About Full-Stack Development | Cyber-Security And Motion Graphics, I Design And Develop Full-Stack Websites On Fiverr ! 
 
 <h3>Contact Me / Collab / Connect:</h3>
 
@@ -35,7 +35,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
-- 📖 Currently learning Object-Oriented Programming With PHP, Laravel And Along With Network And Web Exploitation Sometimes
+- 📖 Currently learning Laravel And Along With Network And Web Exploitation Sometimes
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Also Do PenandInk Art
 - 📚 I also Have 2 years of experience In Full Stack Web Development
