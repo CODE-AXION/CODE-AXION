@@ -33,9 +33,6 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 <h2>About Me</h2>
 
-<a href="https://app.daily.dev/CODE_AXION"><img src="https://api.daily.dev/devcards/efe82983cf2e4120b91c021d076caa44.png?r=bzo" width="200" align="right" alt="CODE AXION's Dev Card"/></a>
-
-
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
