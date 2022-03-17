@@ -93,7 +93,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - <i><b>Admin Backend System Features:</b></i>
   - Infinite name + Automatic Sql Generator
   - Dynamic & Reusable Code
-  - Efficient | Clean Code & Well Commended Codes
+  - Efficient | Clean & Well Commended Codes
   - Detailed Documentation
   - Strong Security With OOP Concepts, Prepared Statements | With Security Tools And Testing  
   - Can Be Applied On any Website
