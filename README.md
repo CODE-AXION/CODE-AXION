@@ -90,15 +90,28 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
  - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
 - 🖥 Currently Working On:<b><i> " Advance BackEnd Admin System " With PHP & Laravel</i></b>
-- Admin Backend System Features:
+- <i>Admin Backend System Features:</i>
   - Infinite name + Automatic Sql Generator
   - Dynamic & Reusable Code
-  - Efficient & Clean Code
-  - More Secure With OOP Concepts, Prepared Statements, Security Tools And Testing 
+  - Efficient | Clean Code & Well Commended Codes
+  - Detailed Documentation
+  - Strong Security With OOP Concepts, Prepared Statements | With Security Tools And Testing  
   - Can Be Applied On any Website
-  - Advance Filters 
+  - Advance Fast Filters
+  - Full CRUD System
+  - Ecommerce Support
+  - Authentication, Forgot Password ,Reset Password Functionality And Much More...
   - Analytics , Charts , Bars , Monthly Views, Progress And Records
-  - Performance & Faster 
+  - Performance & Faster
+  - Clean UI/UX Design
+  - Dark/Light Mode
+  - Multiple Color Themes
+  - Fully Customizable With " Customize Menu Bar " 
+  - Fluid Layout
+  - Full CSS Powered
+  - Responsive With Every Device
+
+
 - 💻 Working On " Stocks&Profit " Website [ In Development...]
 - 💻 Working On " Cyber-Awarness " Website For Competition [ In Development...]
 - 💻 Frontend Designs With Html Css and Javascript 
