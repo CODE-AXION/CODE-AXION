@@ -111,6 +111,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
   - Fluid Layout
   - Full CSS Powered
   - Responsive With Every Device
+ 
+ <i>* Estimated Time To Complete: <b>3 to 4 Months</b></i>
 
 
 - 💻 Working On " Stocks&Profit " Website [ In Development...]
