@@ -90,7 +90,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
  - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
 - 🖥 Currently Working On:<b><i> " Advance BackEnd Admin System " With PHP & Laravel</i></b>
-- <i>Admin Backend System Features:</i>
+- <i><b>Admin Backend System Features:</b></i>
   - Infinite name + Automatic Sql Generator
   - Dynamic & Reusable Code
   - Efficient | Clean Code & Well Commended Codes
