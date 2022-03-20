@@ -77,10 +77,13 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 </p>
 </center>
  
- | Projects | Description | Estimated Time To Complete |
-| --- | --- | --- |
-| Advance BackEnd Admin System " With PHP & Laravel | Full CRUD Operations, Advance Fast Filters, Auth, Secure, Analytics, Charts, Montly Views & Progress etc.. , Clean UI With Customizable Themes, Dynamic, Effiecient, Clean and Well Commented Code and Much More | 3 to 4 Months |
+ - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
  
+| Project | Estimated Time To Complete | Released/ In Devlopment / Realising Montly | Projects Type: Public/Private|
+| --- | --- | --- | --- |
+| Advance BackEnd Admin System " With PHP & Laravel  | 3 to 4 Months | In Development | PRIVATE|
+| Stocks & Profit Website  | 6+ Months | In Development | PUBLIC |
+| Frontend Designs With Html Css and Javascript  | 1 Week | Realising Montly [ On Github/Youtube ]| PUBLIC | 
  
  - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
 - 🖥 Currently Working On:<b><i> " Advance BackEnd Admin System " With PHP & Laravel</i></b>
