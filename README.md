@@ -35,7 +35,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
-- 🖥 Currently Working On: <i>Advance BackEnd AdminSystem With Php & Laravel</i>
+- 🖥 Currently Working On: <i>Advance BackEnd Admin System With Php & Laravel</i>
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Advance Laravel And Along With Network And Web Exploitation Sometimes
