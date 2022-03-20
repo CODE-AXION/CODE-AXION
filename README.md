@@ -95,7 +95,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
   - Dynamic & Reusable Code
   - Efficient | Clean & Well Commended Codes
   - Detailed Documentation
-  - Strong Security With OOP Concepts, Prepared Statements | With Security Tools And Testing  
+  - Strong Security With OOP Concepts, With Security Tools And Testing  
   - Can Be Applied On any Website
   - Advance Fast Filters
   - Full CRUD System
