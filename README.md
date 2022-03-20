@@ -71,12 +71,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
 
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight) <img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
+
 
  
  - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
@@ -86,36 +83,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 | Advance BackEnd Admin System " With PHP & Laravel  | 3 to 4 Months | In Development | PRIVATE|
 | Stocks & Profit Website  | 6+ Months | In Development | PUBLIC |
 | Frontend Designs With Html Css and Javascript  | 1 Week | Realising Montly [ On Github/Youtube ]| PUBLIC | 
- 
- - <h4>UPCOMING AND CURRENT PROJECTS I AM WORKING ON:</h4>
-- 🖥 Currently Working On:<b><i> " Advance BackEnd Admin System " With PHP & Laravel</i></b>
-- <i><b>Admin Backend System Features:</b></i>
-  - Dynamic & Reusable Code
-  - Efficient | Clean & Well Commended Codes
-  - Detailed Documentation
-  - Strong Security With OOP Concepts, With Security Tools And Testing  
-  - Can Be Applied On any Website
-  - Advance Fast Filters
-  - Full CRUD System
-  - Ecommerce Support
-  - Authentication, Forgot Password ,Reset Password Functionality And Much More...
-  - M-V-C Model Architecture
-  - Analytics , Charts , Bars , Monthly Views, Progress And Records
-  - Performance & Faster
-  - Clean UI/UX Design
-  - Dark/Light Mode
-  - Multiple Color Themes
-  - Fully Customizable With " Customize Menu Bar " 
-  - Fluid Layout
-  - Full CSS Powered
-  - Responsive With Every Device
- 
- <i>* Estimated Time To Complete: <b>3 to 4 Months</b></i>
 
-
-- 💻 Working On " Stocks&Profit " Website [ In Development...]
-- 💻 Working On " Cyber-Awarness " Website For Competition [ In Development...]
-- 💻 Frontend Designs With Html Css and Javascript 
 
 <i>Note: I Don't Post Much Projects Here Since Many Of My Projects Are Private.</i>
 
