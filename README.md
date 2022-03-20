@@ -65,11 +65,10 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 | UI Design & Motion Graphics Softwares | ![photoshop](https://img.shields.io/badge/Photoshop-8BC3FC?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![photoshop](https://img.shields.io/badge/AfterEffects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white)|
 | Version Control | ![github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CODE-AXION&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">My Github Stats:</h3>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CODE-AXION&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight">
