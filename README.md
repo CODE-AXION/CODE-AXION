@@ -68,7 +68,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CODE-AXION&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">My Github Stats:</h3>
-<center>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/CODE-AXION/github-readme-stats)
@@ -76,7 +77,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
-</center>
+
  
  - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
  
