@@ -72,7 +72,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight) <img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-AXION&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 
 
  
