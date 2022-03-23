@@ -81,11 +81,11 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  
  - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
  
-| Project | Estimated Time To Complete | Released/ In Devlopment / Realising Montly | Project Type: Public/Private|
+| Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
 | --- | --- | --- | --- |
 | Advance BackEnd Admin System " With PHP & Laravel  | 3 to 4 Months | In Development | PRIVATE|
 | Stocks & Profit Website  | 6+ Months | In Development | PUBLIC |
-| Frontend Designs With Html Css and Javascript  | 1 Week | Realising Montly [ On Github/Youtube ]| PUBLIC | 
+| Frontend Designs With Html Css and Javascript  | 1 Week | Realising Monthly [ On Github/Youtube ]| PUBLIC | 
 
 
 <i>Note: I Don't Post Much Projects Here Since Many Of My Projects Are Private.</i>
