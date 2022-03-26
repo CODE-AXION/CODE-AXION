@@ -45,7 +45,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 📚 I also Have 2 years of experience In Full Stack Web Development
 - 💻 And I Design And Develop Full-Stack Websites On Fiverr ! 
 - 💥 Currently Participated In " Codingal HPE National Coding Competition Of Web/App Development "
-- 📕 Next Language to Learn Node.js, Flutter And Flutter 
+- 📕 Next Language to Learn Node.js, Flutter And C
 - 📫 GOT Any Freelance Work? Do Reach Me On <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">Fiverr</a> or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
