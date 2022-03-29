@@ -83,7 +83,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  
 | Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
 | --- | --- | --- | --- |
-| Advance BackEnd Admin System " With PHP & Laravel  | 3 to 4 Months | In Development | PRIVATE|
+| Advance BackEnd Admin System " With Laravel  | 3 to 4 Months | In Development | PRIVATE|
 | Stocks & Profit Website  | 6+ Months | In Development | PUBLIC |
 | Frontend Designs With Html Css and Javascript  | 1 Week | Realising Monthly [ On Github/Youtube ]| PUBLIC | 
 
