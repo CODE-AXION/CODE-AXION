@@ -35,6 +35,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
+- 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022
 - 🖥 Currently Working On: <i>Advance BackEnd Admin System With Php & Laravel</i>
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
@@ -44,7 +45,6 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 🎨 I Also Do PenandInk Art <a href="https://www.instagram.com/darkestbrush/">Darkest Brush</a>
 - 📚 I also Have 2 years of experience In Full Stack Web Development
 - 💻 And I Design And Develop Full-Stack Websites On Fiverr ! 
-- 🏆 Top #9 Position in HPE All India National Coding Competition Of Web/App Development 
 - 📕 Next Language to Learn Node.js, Flutter And C
 - 📫 GOT Any Freelance Work? Do Reach Me On <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">Fiverr</a> or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
