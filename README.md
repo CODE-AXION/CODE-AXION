@@ -34,7 +34,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h2>About Me</h2>
 
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
-- 💻 I Mostly Do Frontend Designs and BackEnd(Server-Side) Applications Architecture 
+- 💻 I Mostly Do BackEnd(Server-Side) Applications Architecture and Frontend Designs  
 - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022
 - 🖥 Currently Working On: <i>Advance BackEnd Admin System With Php & Laravel</i>
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
