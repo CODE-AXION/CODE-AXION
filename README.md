@@ -50,9 +50,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
  - Fun Fact: 
-   - 🎞 Favourite Youtuber: Watches Alot Of Michael Reeves Videos
-   - 🎮 Big Fan Boi Of Playstation Watches Gameplays and Trailers Alot 
-   - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But Now I Only Focus On My Career)
+   - 🎞 Favourite Youtuber: Michael Reeves & Dani (there are much more actually !)
+   - 🎮 Big Fan Boi Of Playstation Watches Gameplays,Events and Trailers Alot 
+   - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But Now I Only Focus On Coding Stuffs)
 
 
  <h3 align="center">My Skills and Tech Stack I Work With:</h3>
@@ -83,9 +83,9 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  
 | Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
 | --- | --- | --- | --- |
-| Advance BackEnd Admin System With Laravel  | 3 to 4 Months | In Development | PRIVATE|
-| Stocks & Profit Website  | 6+ Months | In Development | PUBLIC |
-| Frontend Designs With Html Css and Javascript  | 1 Week | Realising Monthly [ On Github/Youtube ]| PUBLIC | 
+| Advance Ecommerce With Laravel & Livewire  | 4 to 6 Months | In Development | PRIVATE|
+| Stocks & Profit Website (On Hold)  | 6+ Months | In Development | PUBLIC |
+| Frontend Designs With Html Css and Javascript  | 1 Week | Releasing Monthly (Probably) [ On Github/Youtube ]| PUBLIC | 
 
 
 <i>Note: I Don't Post Much Projects Here Since Many Of My Projects Are Private.</i>
