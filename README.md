@@ -78,7 +78,13 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
 
- 
+ - <h4> Frontend Projects Made Under 1 Week Time </h4>
+ - <a href="https://code-axion.github.io/umar_boi_scientist.github.io/index.html">Pasta Tech Blog [ Made For My Friend  ] </a>
+ - <a href="https://code-axion.github.io/ecommerce_layout.github.io/index.html"> Simple Ecommerce Template [ A Sample Template] </a>
+ - <a href="http://codeaxion.freecluster.eu/youtube_dev/cyber/"> Cyber - Security Awareness Blog [ Made for Competition ] </a>
+ - <i>*this projects were made under 1 week and some of them were made in 4 days so dont judge my skills based on this projects as they were made in less time</i>
+
+
  - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
  
 | Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
