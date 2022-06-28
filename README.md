@@ -21,7 +21,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">
 ![Fiverr](https://img.shields.io/badge/Fiverr-00b22d.svg?style=for-the-badge&logo=fiverr&logoColor=white)
 </a>
-<a href="https://www.instagram.com/codeaxion/">![Instagram](https://img.shields.io/badge/Instagram.5k+-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/codeaxion/">![Instagram](https://img.shields.io/badge/Instagram.8k+-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <a href="https://twitter.com/CodeAxion">
 ![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)
