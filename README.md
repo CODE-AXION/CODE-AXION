@@ -12,7 +12,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="center"></h3>
 <h3 align="left">Welcome TO <i>"CODE AXION THE SECURITY BREACH"</i></h3>
 
-- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Freelancer | Digital Creator & SFX | UI/UX And Motion Graphics Designer 
+- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Digital Creator & SFX | UI/UX And Motion Graphics Designer 
 
 <h3>Contact Me / Collab / Connect:</h3>
 
