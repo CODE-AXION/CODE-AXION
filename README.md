@@ -92,7 +92,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 | Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
 | --- | --- | --- | --- |
 | Advance Ecommerce With Laravel & Livewire  | 4 to 6 Months | In Development | PRIVATE|
-| Stocks & Profit Website (On Hold)  | 6+ Months | In Development | PUBLIC |
+| Stocks & Profit Website (On Hold)  | *Not Confirmed | In Development | PUBLIC |
 | Frontend Designs With Html Css and Javascript  | 1 Week | Releasing Monthly (Probably) [ On Github/Youtube ]| PUBLIC | 
 
 
