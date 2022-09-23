@@ -12,7 +12,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="center"></h3>
 <h3 align="left">Welcome TO <i>"CODE AXION THE SECURITY BREACH"</i></h3>
 
-- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Digital Creator & SFX | UI/UX And Motion Graphics Designer 
+- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Digital Creator & SFX
 
 <h3>Contact Me / Collab / Connect:</h3>
 
@@ -85,7 +85,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  - <a href="http://codeaxion.freecluster.eu/youtube_dev/cyber/"> Cyber - Security Awareness Blog [ Made for Competition ] </a>
  - <a href="https://code-axion.github.io/dark-admin-sidebar.github.io/index.html">Admin Panel With Dark Neon Mode</a>
  - <a href="https://code-axion.github.io/Ecommerce-Flowers-Template-Tailwind.github.io/">Ecommerce Tailwind Project Production - Trademark &#169; </a>
- - <i>*some of the projects were made under 4 days so dont judge my skills based on some projects as they were made in less time </i>
+
 
 
  - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
