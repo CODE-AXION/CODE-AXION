@@ -35,6 +35,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do BackEnd(Server-Side) Applications Architecture and Frontend Designs  
+- 💻 I Have 2+ years of experience In Full Stack Web Development
 - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022
 - 🖥 Currently Working On: <i>Advance Ecommerce Website Laravel & Livewire </i>
 - 💻 Current Stack: TALL STACK - [TAILWIND, ALPLINE.JS, LARAVEL, LIVEWIRE]
@@ -43,11 +44,10 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 - 📖 Currently learning Advance Laravel And Along With Network And Web Exploitation Sometimes
 - 🎬 Mastering Cinematography | Motion Graphics And SFX Skills
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
-- 🎨 I Also Do PenandInk Art <a href="https://www.instagram.com/darkestbrush/">Darkest Brush</a>
-- 💻 I also Have 2 years of experience In Full Stack Web Development
-- 📚 Next Language to Learn Node.js, Flutter And C
+- 🎨 I Do PenandInk Art <a href="https://www.instagram.com/darkestbrush/">Darkest Brush</a>
+- 📚 Next Language to Learn Nodejs & Flutter 
 - 📕 Next Stack to Learn " M E R N  STACK ", 
-- 📫 GOT Any Freelance Work? Do Reach Me On <a href="https://www.fiverr.com/code_axion/develop-a-highly-customized-full-or-half-stack-website">Fiverr</a> or Other Social Networks:)
+- 📫 GOT Any Freelance Work? Do Mail Me On codeaxion77@gmail.com  or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
  - Fun Fact: 
@@ -92,7 +92,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
  
 | Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
 | --- | --- | --- | --- |
-| Advance Ecommerce With Laravel & Livewire  | 4 to 6 Months | In Development | PRIVATE|
+| <a href="https://barodagifts.com/"> Advance Ecommerce With Laravel & Livewire </a>  | 4 to 6 Months | In Development | PRIVATE|
+| <a href="https://steelvyapar.com/"> Steel Quotation Based B2B Website </a> | ~ 2 months | Developed | PUBLIC |  
 | Stocks & Profit Website (On Hold)  | *Not Confirmed | In Development | PUBLIC |
 | Frontend Designs With Html Css and Javascript  | 1 Week | Releasing Monthly (Probably) [ On Github/Youtube ]| PUBLIC | 
 
