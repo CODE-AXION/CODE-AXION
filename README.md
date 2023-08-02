@@ -7,8 +7,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23232162&lines=WELCOME+TO)](https://git.io/typing-svg) -->
 <hr>
-
-<h3 align="left">:wave: Hi, I am Rayees Aadil</h3>
+<!--
+<h3 align="left">:wave: Hi, I am Rayees Aadil</h3> -->
 <h3 align="center"></h3>
 <h3 align="left">Welcome TO <i>"CODE AXION THE SECURITY BREACH"</i></h3>
 
@@ -35,8 +35,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 - 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
 - 💻 I Mostly Do BackEnd(Server-Side) Applications Architecture and Frontend Designs  
-- 💻 I Have 2+ years of experience In Full Stack Web Development
-- 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022
+<!-- - 💻 I Have 2+ years of experience In Full Stack Web Development -->
+<!-- - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022 -->
 - 🖥 Currently Working On: <i>Advance Ecommerce Website Laravel & Livewire </i>
 - 💻 Current Stack: TALL STACK - [TAILWIND, ALPLINE.JS, LARAVEL, LIVEWIRE]
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
@@ -68,17 +68,18 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 | Version Control | ![github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CODE-AXION&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center">My Github Stats:</h3>
+-->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CODE-AXION&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
+<!--<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CODE-AXION&show_icons=true&theme=tokyonight">
 </p>
+
 <p align="center">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
-
+-->
  - <h4> Frontend Projects </h4>
  - <a href="https://code-axion.github.io/umar_boi_scientist.github.io/index.html">Pasta Tech Blog [ Made For My Friend  ] </a>
  - <a href="https://code-axion.github.io/ecommerce_layout.github.io/index.html"> Simple Ecommerce Template [ A Sample Template] </a>
@@ -105,4 +106,4 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <!---
 CODE-AXION/CODE-AXION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
