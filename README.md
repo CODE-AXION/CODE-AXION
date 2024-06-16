@@ -12,7 +12,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="center"></h3>
 <h3 align="left">Welcome TO <i>"CODE AXION THE SECURITY BREACH"</i></h3>
 
-- 👨‍💻 I am a Cyber-Security Student | Full-Stack Web Developer | Digital Creator & SFX
+- 👨‍💻 Full-Stack Laravel React Developer | Digital Creator & SFX
 
 <h3>Contact Me / Collab / Connect:</h3>
 
@@ -38,14 +38,14 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <!-- - 💻 I Have 2+ years of experience In Full Stack Web Development -->
 <!-- - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022 -->
 - 🖥 Currently Working On: <i>Advance Ecommerce Website Laravel & Livewire </i>
-- 💻 Current Stack: TALL STACK - [TAILWIND, ALPLINE.JS, LARAVEL, LIVEWIRE]
+- 💻 Current Stack: TAL STACK - [TAILWIND, ALPLINE.JS, LARAVEL]
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
 - 📖 Currently learning Advance Laravel And Along With Network And Web Exploitation Sometimes
 - 🎬 Mastering Cinematography | Motion Graphics And SFX Skills
 - 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Do PenandInk Art <a href="https://www.instagram.com/darkestbrush/">Darkest Brush</a>
-- 📚 Next Language to Learn Nodejs & Flutter 
+- 📚 Next Language to Learn React Native 
 - 📕 Next Stack to Learn " M E R N  STACK ", 
 - 📫 GOT Any Freelance Work? Do Mail Me On codeaxion77@gmail.com  or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
@@ -60,7 +60,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 
 | Skills | Description |
 | --- | --- |
-| Languages &nbsp; &nbsp; | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![bash](https://img.shields.io/badge/Bash-212C42?style=for-the-badge&logo=GNUBASH&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=white) ||
+| Languages &nbsp; &nbsp; | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![bash](https://img.shields.io/badge/Bash-212C42?style=for-the-badge&logo=GNUBASH&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  ![livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=white) ||
 | Databases & Administration | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)|
 | OS | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black) ![linuxmint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)|
 | Security Tools & Machines | ![Networking](https://img.shields.io/badge/Computer%20Networking-6933FF?style=for-the-badge&logoColor=white) ![Security](https://img.shields.io/badge/Cyber%20Security-6933FF?style=for-the-badge&logoColor=white) ![VirtualMachines](https://img.shields.io/badge/Virtual%20Machines-0E5CA3?style=for-the-badge&logo=virtualbox&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) ![hackthebox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)  ![owasp](https://img.shields.io/badge/Owasp-000000?style=for-the-badge&logo=owasp&logoColor=white) ![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![burpsuite](https://img.shields.io/badge/BurpSuite-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-00008B?style=for-the-badge&logo=OSINT&logoColor=white) ![cryptography](https://img.shields.io/badge/Cryptography-black?style=for-the-badge&logo=cryptography&logoColor=white)  |
