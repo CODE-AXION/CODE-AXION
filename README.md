@@ -38,21 +38,18 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <!-- - 💻 I Have 2+ years of experience In Full Stack Web Development -->
 <!-- - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022 -->
 - 🖥 Currently Working On: <i>Advance Ecommerce Website Laravel & Livewire </i>
-- 💻 Current Stack: TAL STACK - [TAILWIND, ALPLINE.JS, LARAVEL]
+- 💻 Current Stack: Laravel + Nextjs + Tailwind 
 - 👀 I Love To Solve Machines/CTFS On Tryhackme Where I Have Solved 48 Rooms and Earned 9 Badges | Well, Let's Learn & Hack Together @darkestbrush 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/darkestbrush.png" alt="TryHackMe">
-- 📖 Currently learning Advance Laravel And Along With Network And Web Exploitation Sometimes
+- 📖 Currently Exploring App Dev
 - 🎬 Mastering Cinematography | Motion Graphics And SFX Skills
-- 🤖 I Also Wanna Learn Robotics | Arduino Programming In Future
 - 🎨 I Do PenandInk Art <a href="https://www.instagram.com/darkestbrush/">Darkest Brush</a>
-- 📚 Next Language to Learn React Native 
-- 📕 Next Stack to Learn " M E R N  STACK ", 
 - 📫 GOT Any Freelance Work? Do Mail Me On codeaxion77@gmail.com  or Other Social Networks:)
 - :incoming_envelope: Email: codeaxion77@gmail.com 
 
  - Fun Fact: 
-   - 🎞 Favourite Youtuber: Michael Reeves & Dani (there are much more actually !)
-   - 🎮 Big Fan Boi Of Playstation Watches Gameplays,Events and Trailers Alot 
+   - 🎞 Favourite Youtuber: Michael Reeves & Dani 
+   - 🎮 Playstation Enthusiast
    - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But Now I Only Focus On Coding Stuffs)
 
 
@@ -80,23 +77,41 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODE-AXION&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
 -->
- - <h4> Frontend Projects </h4>
- - <a href="https://code-axion.github.io/umar_boi_scientist.github.io/index.html">Pasta Tech Blog [ Made For My Friend  ] </a>
- - <a href="https://code-axion.github.io/ecommerce_layout.github.io/index.html"> Simple Ecommerce Template [ A Sample Template] </a>
- - <a href="http://codeaxion.freecluster.eu/youtube_dev/cyber/"> Cyber - Security Awareness Blog [ Made for Competition ] </a>
- - <a href="https://code-axion.github.io/dark-admin-sidebar.github.io/index.html">Admin Panel With Dark Neon Mode</a>
- - <a href="https://code-axion.github.io/Ecommerce-Flowers-Template-Tailwind.github.io/">Ecommerce Tailwind Project Production - Trademark &#169; </a>
 
 
+# Projects
 
- - <h4>CURRENT PROJECTS I AM WORKING ON:</h4> 
- 
-| Project | Estimated Time To Complete | Released/ In Devlopment / Realising Monthly | Project Type: Public/Private|
-| --- | --- | --- | --- |
-| <a href="https://barodagifts.com/"> Advance Ecommerce With Laravel & Livewire </a>  | 4 to 6 Months | In Development | PRIVATE|
-| <a href="https://steelvyapar.com/"> Steel Quotation Based B2B Website </a> | ~ 2 months | Developed | PUBLIC |  
-| Stocks & Profit Website (On Hold)  | *Not Confirmed | In Development | PUBLIC |
-| Frontend Designs With Html Css and Javascript  | 1 Week | Releasing Monthly (Probably) [ On Github/Youtube ]| PUBLIC | 
+## [Antz Systems Goverment ](https://www.antzsystems.com/)  
+A government-backed Zoo management platform designed for India, facilitating efficient management of animal records, medical report, staff operations, Diet & Enclosure Management, and overall zoo administration. 
+
+**Technologies Used:** Laravel, Nextjs, MySQL  
+
+## [Dubai Charity - Goverment Project](https://dubaicharity.org/en)  
+A platform for managing charitable donations and activities in Dubai, enabling donors and volunteers to contribute to various causes with ease.  
+
+**Technologies Used:** Laravel, MySQL, Multi-lang  
+
+## [Steel Vyapar](https://steelvyapar.com/)  
+A robust e-commerce platform tailored for the steel industry, facilitating seamless transactions, inventory management, and business growth for steel traders and manufacturers.  
+
+**Technologies Used:** Laravel, MySQL
+
+## [Currinda](https://www.currinda.com/)  
+A specialized event and membership management platform designed for associations and organizations to streamline event planning, membership tracking, and engagement.  
+
+**Technologies Used:** Laravel, Nextjs, MySQL
+
+## [BizLens AI](https://bizlens.ai/)  
+BizLens AI: Effortless AI-Powered Business Content Creation.
+
+BizLens AI offers a streamlined, user-friendly interface specifically tailored for business content creation, with pre-built templates and tools designed to optimize productivity. Unlike ChatGPT, which is a general-purpose AI, BizLens AI provides features like batch processing, premium support, and SEO optimization, making it a more specialized solution for business needs.  
+
+**Technologies Used:** Laravel, MySQL, Open AI, Anthropic and other AI providers
+
+## [Industry Calendar](https://www.industrycalendar.com/)  
+A centralized platform to track and manage industry-specific events, conferences, and networking opportunities, helping professionals stay updated and connected.  
+
+**Technologies Used:** Laravel, MySQL, Calender
 
 
 <i>Note: I Don't Post Much Projects Here Since Many Of My Projects Are Private.</i>
