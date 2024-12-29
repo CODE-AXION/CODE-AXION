@@ -52,6 +52,7 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
    - 🎮 Playstation Enthusiast
    - 🎹 I used to Play Piano And Do 🎛 🎚 Music Composition and Soundtrack Covers with Fl Studio and Stuff, (But Now I Only Focus On Coding Stuffs)
 
+> You make your day, survive the night, you live to fight tomorrow.” - Jack Salter (Gran Turismo)
 
  <h3 align="center">My Skills and Tech Stack I Work With:</h3>
 
