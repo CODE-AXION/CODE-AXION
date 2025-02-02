@@ -90,6 +90,10 @@ I specialize in building scalable web applications, optimizing backend performan
 - Refresh Token for preventing token expiration
 - Reusable authorization helpers
 
+**Technologies Used:**  Laravel, Nextjs, MySQL, Docker
+
+
+
 # Other Projects
 
 ## [Antz Systems Goverment ](https://www.antzsystems.com/)  
