@@ -96,7 +96,7 @@ I specialize in building scalable web applications, optimizing backend performan
 
 # Other Projects
 
-## [Antz Systems Goverment ](https://www.antzsystems.com/)  
+## [Antz Systems Goverment Project](https://www.antzsystems.com/)  
 A government-backed Zoo management platform designed for India, facilitating efficient management of animal records, medical report, staff operations, Diet & Enclosure Management, and overall zoo administration. 
 
 **Technologies Used:** Laravel, Nextjs, MySQL  
