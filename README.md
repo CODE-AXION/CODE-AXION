@@ -96,8 +96,17 @@ I specialize in building scalable web applications, optimizing backend performan
 
 # Other Projects
 
+##  Quickfiller | AI Legal Document Management
+
+Three switchable domains: Doc Filler, Due Diligence, and Chatbot
+- Upload Documents and let AI analyzes them to provide answers, generate summaries, and extract key references—all based on the pdf content
+- implemented RAG model to only feed relevant chunks of the document according to user's query and doing semantic search & retrieval 
+
+**Technologies Used:** Laravel, Nextjs, AWS OCR, Tailwind, ShadcnUI, Langchain, pineconeDB (Vector DB), RAG Model, PSPDFKIT
+
 ## [Antz Systems Goverment Project](https://www.antzsystems.com/)  
-A government-backed Zoo management platform designed for India, facilitating efficient management of animal records, medical report, staff operations, Diet & Enclosure Management, and overall zoo administration. 
+A government-backed Zoo management platform designed for India, facilitating efficient management of animal records, medical report, staff operations, Diet & Enclosure Management, and overall zoo administration.
+
 
 **Technologies Used:** Laravel, Nextjs, MySQL  
 
