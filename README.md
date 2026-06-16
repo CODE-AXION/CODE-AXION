@@ -12,8 +12,8 @@ THE&nbspSECURITY&nbspBREACH </h2> -->
 <h3 align="center"></h3>
 <h3 align="left">Welcome TO <i>"CODE AXION THE SECURITY BREACH"</i></h3>
 
-👋 Hi, I'm  Highly Passionate Full Stack Laravel + Nextjs Developer with 5+ years of Experience . 
-I specialize in building scalable web applications, optimizing backend performance, and enhancing user experiences.
+👋 Hi, I'm  Highly Passionate Full Stack Laravel + Nextjs Developer with 6+ years of Experience . 
+I specialize in building scalable web applications,Professional RAG Systems and building Custom Algorithms for ML.
 
 - I am Technical writer on Medium so don't forget to check that out ! Link: <a href="https://medium.com/@codeaxion77"> Medium </a>
  - 📫 codeaxion77@gmail.com or Other Social Networks :)
@@ -31,9 +31,9 @@ I specialize in building scalable web applications, optimizing backend performan
 <!--
 <h2>About Me</h2>
 
-- 💻 I Am Mostly Interested In Full-Stack Development | Cyber-Security And Motion Graphics
+- 💻 I Am Mostly Interested In Full-Stack Development and building RAG systems
 - 💻 I Mostly Do BackEnd(Server-Side) Applications Architecture and Frontend Designs  
-<!-- - 💻 I Have 2+ years of experience In Full Stack Web Development -->
+<!-- - 💻 I Have 6+ years of experience In Full Stack Web Development -->
 <!-- - 🏆 I Was In The Top #9 Position in HPE All India National Coding Competition Of Web/App Development 2022
 - 🖥 Currently Working On: <i>Advance Ecommerce Website Laravel & Livewire </i>
 - 💻 Current Stack: Laravel + Nextjs + Tailwind 
